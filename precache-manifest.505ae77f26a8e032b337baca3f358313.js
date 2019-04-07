@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/onpoint-test-task/static/media/ice-shard-4.fe1eacfd.png"
   },
   {
-    "revision": "9b817a4fe4b52462515e",
+    "revision": "fa2f9e68ed32631dfaac",
     "url": "/onpoint-test-task/static/css/main.19f0885b.chunk.css"
   },
   {
@@ -48,56 +48,56 @@ self.__precacheManifest = [
     "url": "/onpoint-test-task/static/media/next.b52db881.png"
   },
   {
-    "revision": "ea72beb81a68e58526976a8bcb613b6e",
-    "url": "/onpoint-test-task/static/media/1-circle-large.ea72beb8.svg"
+    "revision": "a28afaa79a8cd576477992695cf87419",
+    "url": "/onpoint-test-task/static/media/1-circle-large.a28afaa7.svg"
   },
   {
-    "revision": "cf5bc3f2eb2bcaf56bca6b57818b9a65",
-    "url": "/onpoint-test-task/static/media/1-circle-middle_1.cf5bc3f2.svg"
+    "revision": "167e751b376362785331f951dc304f0d",
+    "url": "/onpoint-test-task/static/media/1-circle-middle_1.167e751b.svg"
   },
   {
-    "revision": "1bbf58e573db952151bb442900efc0a5",
-    "url": "/onpoint-test-task/static/media/1-circle-middle_2.1bbf58e5.svg"
+    "revision": "06ffc470cac58ba43d0dcd9cba67bbbb",
+    "url": "/onpoint-test-task/static/media/1-circle-middle_2.06ffc470.svg"
   },
   {
-    "revision": "86c33d79d7f95c9894187b2c0ec9558d",
-    "url": "/onpoint-test-task/static/media/1-circle-small_1.86c33d79.svg"
+    "revision": "f93cd9c080f3eb931f115b6c1b2f9567",
+    "url": "/onpoint-test-task/static/media/1-circle-small_1.f93cd9c0.svg"
   },
   {
-    "revision": "ba9204b19ca69f84a3a4ea3382ad0cd8",
-    "url": "/onpoint-test-task/static/media/2-circle-large.ba9204b1.svg"
+    "revision": "a002b0295a072f6d56a2920b48cea3a8",
+    "url": "/onpoint-test-task/static/media/2-circle-large.a002b029.svg"
   },
   {
-    "revision": "0e9b158f7e8c8c55a029c4c6b2b64538",
-    "url": "/onpoint-test-task/static/media/2-circle-middle.0e9b158f.svg"
+    "revision": "66a962a21393614ae5794e8ffcd6ed7c",
+    "url": "/onpoint-test-task/static/media/2-circle-middle.66a962a2.svg"
   },
   {
-    "revision": "057136fe98a42e98d6cd9d6ebde0f87f",
-    "url": "/onpoint-test-task/static/media/2-circle-small_1.057136fe.svg"
+    "revision": "7788b97425acf3303a79a70ccb48dca8",
+    "url": "/onpoint-test-task/static/media/2-circle-small_1.7788b974.svg"
   },
   {
-    "revision": "960a6c8374fda912d3ff40319739c348",
-    "url": "/onpoint-test-task/static/media/3-circle-large.960a6c83.svg"
+    "revision": "3b957d0f0fc3f7db69aa3b6c87cc9b66",
+    "url": "/onpoint-test-task/static/media/3-circle-large.3b957d0f.svg"
   },
   {
-    "revision": "d59c677813c7599cf8fedd322ef66e7c",
-    "url": "/onpoint-test-task/static/media/3-circle-middle.d59c6778.svg"
+    "revision": "f5b6ed9344a910c6e76959e27efe51ee",
+    "url": "/onpoint-test-task/static/media/3-circle-middle.f5b6ed93.svg"
   },
   {
-    "revision": "32688283129bc60bb7f544613a6c7ecc",
-    "url": "/onpoint-test-task/static/media/3-circle-small_1.32688283.svg"
+    "revision": "95db7e7129de76d912eb50982bf3afb2",
+    "url": "/onpoint-test-task/static/media/3-circle-small_1.95db7e71.svg"
   },
   {
-    "revision": "f21e306c0b3543baffd3effef71b1693",
-    "url": "/onpoint-test-task/static/media/4-circle-large.f21e306c.svg"
+    "revision": "8c91ab1ebd9bf9be19fb0f5b21f0c64d",
+    "url": "/onpoint-test-task/static/media/4-circle-large.8c91ab1e.svg"
   },
   {
-    "revision": "bd0a028110629c267b8bb83aa7514766",
-    "url": "/onpoint-test-task/static/media/4-circle-middle.bd0a0281.svg"
+    "revision": "14892dfbdd989409e3610db1578af276",
+    "url": "/onpoint-test-task/static/media/4-circle-middle.14892dfb.svg"
   },
   {
-    "revision": "0466bb78a3771de0292fa2d9cab5f6f7",
-    "url": "/onpoint-test-task/static/media/4-circle-small_1.0466bb78.svg"
+    "revision": "60adafa82bed3458f0922c5755f8f5bc",
+    "url": "/onpoint-test-task/static/media/4-circle-small_1.60adafa8.svg"
   },
   {
     "revision": "8f4634cc613fb23b5e4c2ee19699c815",
@@ -112,8 +112,8 @@ self.__precacheManifest = [
     "url": "/onpoint-test-task/static/media/ice-shard-3.e26e0e54.png"
   },
   {
-    "revision": "9b817a4fe4b52462515e",
-    "url": "/onpoint-test-task/static/js/main.61777b97.chunk.js"
+    "revision": "fa2f9e68ed32631dfaac",
+    "url": "/onpoint-test-task/static/js/main.0b3df8ad.chunk.js"
   },
   {
     "revision": "c89f5b2f247d26cdf54886f3e424c02d",
@@ -140,12 +140,12 @@ self.__precacheManifest = [
     "url": "/onpoint-test-task/static/media/lining.ecdbfe72.png"
   },
   {
-    "revision": "c31a8e097cb6c2901857d8c686f0063d",
-    "url": "/onpoint-test-task/static/media/GothamPro.c31a8e09.eot"
-  },
-  {
     "revision": "3cb46b372ab77d032576b9f70c83d1ff",
     "url": "/onpoint-test-task/static/media/GothamPro.3cb46b37.woff"
+  },
+  {
+    "revision": "c31a8e097cb6c2901857d8c686f0063d",
+    "url": "/onpoint-test-task/static/media/GothamPro.c31a8e09.eot"
   },
   {
     "revision": "3100f91bbd9e9ca9ecd00255cac7d11c",
@@ -156,32 +156,32 @@ self.__precacheManifest = [
     "url": "/onpoint-test-task/static/media/GothamPro-Light.677c3a32.woff"
   },
   {
-    "revision": "7fd3861de823f75a6923000a948c494a",
-    "url": "/onpoint-test-task/static/media/GothamPro-Light.7fd3861d.eot"
-  },
-  {
     "revision": "abd5115e2ddae490f9cb393fb8cdfc5a",
     "url": "/onpoint-test-task/static/media/GothamPro-Light.abd5115e.ttf"
+  },
+  {
+    "revision": "7fd3861de823f75a6923000a948c494a",
+    "url": "/onpoint-test-task/static/media/GothamPro-Light.7fd3861d.eot"
   },
   {
     "revision": "cd6c6aac15595c65e75760bce456198a",
     "url": "/onpoint-test-task/static/media/Lato-Regular.cd6c6aac.woff"
   },
   {
-    "revision": "3b8c0c7776942ac25543ce1864bfeba4",
-    "url": "/onpoint-test-task/static/media/Lato-Regular.3b8c0c77.eot"
-  },
-  {
     "revision": "79b8ba6c6b392a2c85891368896f83b1",
     "url": "/onpoint-test-task/static/media/Lato-Light.79b8ba6c.woff"
   },
   {
-    "revision": "fe3d8decb24d2232afefce5a1cd28c73",
-    "url": "/onpoint-test-task/static/media/Lato-Light.fe3d8dec.eot"
+    "revision": "3b8c0c7776942ac25543ce1864bfeba4",
+    "url": "/onpoint-test-task/static/media/Lato-Regular.3b8c0c77.eot"
   },
   {
     "revision": "02e85e244c78339c433b99a744f54b55",
     "url": "/onpoint-test-task/static/media/Lato-Regular.02e85e24.ttf"
+  },
+  {
+    "revision": "fe3d8decb24d2232afefce5a1cd28c73",
+    "url": "/onpoint-test-task/static/media/Lato-Light.fe3d8dec.eot"
   },
   {
     "revision": "12ef52cc546567c7549dd2e53025b47f",
@@ -192,39 +192,39 @@ self.__precacheManifest = [
     "url": "/onpoint-test-task/static/media/Lato-Light.32426ae5.ttf"
   },
   {
-    "revision": "3ed0b9fefe1d39976dc57ec384aefaac",
-    "url": "/onpoint-test-task/static/media/Lato-Medium.3ed0b9fe.ttf"
-  },
-  {
     "revision": "1f242eab41f35bb8c5f94078edf9965b",
     "url": "/onpoint-test-task/static/media/Lato-Medium.1f242eab.eot"
   },
   {
-    "revision": "f7a0c31e13069b62fbdf68a957a0fc51",
-    "url": "/onpoint-test-task/static/media/Lato-Bold.f7a0c31e.woff"
+    "revision": "3ed0b9fefe1d39976dc57ec384aefaac",
+    "url": "/onpoint-test-task/static/media/Lato-Medium.3ed0b9fe.ttf"
   },
   {
     "revision": "c8ef5e00219e7a561cdbb27290fb8781",
     "url": "/onpoint-test-task/static/media/Lato-Bold.c8ef5e00.eot"
   },
   {
-    "revision": "bef8639602379476aaade35f341782b6",
-    "url": "/onpoint-test-task/static/media/Lato-Semibold.bef86396.woff"
+    "revision": "f7a0c31e13069b62fbdf68a957a0fc51",
+    "url": "/onpoint-test-task/static/media/Lato-Bold.f7a0c31e.woff"
   },
   {
-    "revision": "cff5cdfe16eab4a8f10a42ccf7d58adb",
-    "url": "/onpoint-test-task/static/media/Lato-Semibold.cff5cdfe.eot"
+    "revision": "bef8639602379476aaade35f341782b6",
+    "url": "/onpoint-test-task/static/media/Lato-Semibold.bef86396.woff"
   },
   {
     "revision": "d6e8a95af622b5f08cbe540f2f56e087",
     "url": "/onpoint-test-task/static/media/Lato-Bold.d6e8a95a.ttf"
   },
   {
+    "revision": "cff5cdfe16eab4a8f10a42ccf7d58adb",
+    "url": "/onpoint-test-task/static/media/Lato-Semibold.cff5cdfe.eot"
+  },
+  {
     "revision": "eedc65d00d283922f343d6228632762c",
     "url": "/onpoint-test-task/static/media/Lato-Semibold.eedc65d0.ttf"
   },
   {
-    "revision": "04b3f159a96b165eb389acc27c09bd4c",
+    "revision": "fb3a54120a6aec7f96537288bcdc90e3",
     "url": "/onpoint-test-task/index.html"
   }
 ];

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/onpoint-test-task/precache-manifest.1412ed785fcb9f7eec57543b90d74928.js"
+  "/onpoint-test-task/precache-manifest.505ae77f26a8e032b337baca3f358313.js"
 );
 
 workbox.clientsClaim();
