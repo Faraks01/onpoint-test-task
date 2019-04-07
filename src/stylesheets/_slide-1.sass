@@ -1,0 +1,102 @@
+.slide-1
+    *
+        color: #0d319c
+
+    .slide-title
+        transform: translateY(-125%)
+        position: absolute
+        top: 134.3px
+        left: 70px
+        letter-spacing: -0.8px
+        line-height: 1.2
+        font-family: "Gotham Pro"
+        font-weight: normal
+        font-size: 50px
+
+    .circle-group
+        transform: translateY(-150%)
+        position: absolute
+        display: flex
+        flex-wrap: nowrap
+        justify-content: flex-start
+        align-items: center
+
+        .circle-wrapper
+            position: relative
+            margin-right: 11px
+            height: max-content
+            width: max-content
+
+            img
+                position: absolute
+                transform: translate(-50%, -50%)
+                top: 50%
+                left: 50%
+                &:nth-child(n+2)
+                    animation: pulse1 1.9s linear 0s infinite
+                &:last-child
+                    animation: pulse2 2s linear 0s infinite
+
+        .description 
+            font-family: 'Lato'
+            font-size: 20px
+            line-height: 18px
+
+    .circle-group-1
+        flex-direction: row-reverse
+        top: 262px
+        left: 562px
+
+        .circle-wrapper
+            height: 53.5px
+            width: 53.5px
+
+    .circle-group-2 
+        top: 399px
+        left: 229px
+        flex-direction: column
+
+        .circle-wrapper 
+            margin-top: 12px
+            height: 28px
+            width: 28px
+
+    .circle-group-3 
+        flex-direction: column
+        top: 489px
+        left: 793px
+
+        .circle-wrapper 
+            margin-top: 9px
+            height: 16px
+            width: 16px
+
+    .circle-group-4 
+        flex-direction: column
+        top: 509px
+        left: 371px
+        .circle-wrapper 
+            margin-top: 11px
+            margin-left: 92px
+            height: 16px
+            width: 16px
+
+    .section-footer 
+        position: absolute
+        bottom: 0
+        left: -10px
+        height: 112px
+        width: 100%
+        background-repeat: no-repeat
+        background-position: center center
+        background-attachment: scroll
+        background-size: contain
+
+        h6
+            font-family: "Gotham Pro"
+            font-size: 15px
+            color: white
+            position: absolute
+            bottom: 54px
+            letter-spacing: -0.3px
+            left: 47%

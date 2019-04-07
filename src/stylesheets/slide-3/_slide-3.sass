@@ -1,0 +1,66 @@
+.slide-3
+    overflow: hidden
+
+    .swipe-bar-container
+        position: absolute
+        z-index: 1000
+        left: 195px
+        bottom: 25px          
+
+        display: inline-flex
+        flex-direction: column
+        justify-content: center
+
+        .bar
+            width: 100%
+            height: 12px
+            background-color: #435063
+            
+            .bar-stroke
+                position: relative
+                height: 100%
+                background-color: #d1eaff
+
+                .bar-picture
+                    position: absolute
+                    left: 12px
+                    top: 50%
+                    transform: translate(-25%, -50%)
+
+                    width: 44px
+                    height: 56px
+
+        .bar-caption
+            padding-top: 27px
+            display: flex
+            justify-content: space-between
+
+            .year-date
+                margin-left: 1px
+                font-family: "Gotham Pro"
+                color: white
+                font-size: 20px
+
+    .subslider-container
+        position: relative
+        width: 100%
+        height: 100%
+
+        display: flex
+
+        transform: translateX(-200%)
+
+        .subslide
+            overflow: hidden
+            position: relative
+            width: 100%
+            height: 100%
+            flex: 1 0 100%
+
+            .picture-group
+                .picture
+                    opacity: 0.5
+
+        @import /subslides/subslide-1
+        @import /subslides/subslide-2
+        @import /subslides/subslide-3
