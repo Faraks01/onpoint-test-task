@@ -1,6 +1,6 @@
 import React from 'react'
 import CircleGroup from './CircleGroup'
-import bgImage from '../../../images/section-1/background.png'
+import bgImage from '../../../images/section-1/background.jpg'
 import nextImage from '../../../images/section-1/next.png'
 import { circleImagesList } from './circleImagesList'
 

@@ -1,5 +1,5 @@
 import React from 'react'
-import bgImg from '../../../images/section-3/background.png'
+import bgImg from '../../../images/section-3/background.jpg'
 import Subslider from './Subslider'
 
 const Slide3 = () => {

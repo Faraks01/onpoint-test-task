@@ -1,5 +1,5 @@
 import React from 'react'
-import bgImg from '../../../images/section-2/background.png'
+import bgImg from '../../../images/section-2/background.jpg'
 import iceShardPic1 from '../../../images/section-2/ice-shard-1.png'
 import iceShardPic2 from '../../../images/section-2/ice-shard-2.png'
 import iceShardPic3 from '../../../images/section-2/ice-shard-3.png'
