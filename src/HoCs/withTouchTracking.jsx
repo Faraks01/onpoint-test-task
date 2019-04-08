@@ -9,15 +9,15 @@ export default function withTouchTracking(WrappedComponent, axis) {
 
 			this.state = {
 				index: 0,
-				initialCoord: null,
-				difference: null
+				initialCoord: 0,
+				difference: 0
 			};
 		}
 
 		trackTouchStart = (e) => {
 			let { initialCoord } = this.state;
 			let { clientX: X, clientY: Y } = e.touches[0];
-			if (initialCoord === null) this.setState({ initialCoord: { X, Y } });
+			if (initialCoord === 0) this.setState({ initialCoord: { X, Y } });
 		}
 
 		trackTouchMove = (e) => {
@@ -52,8 +52,8 @@ export default function withTouchTracking(WrappedComponent, axis) {
 			};
 
 			this.setState({
-				initialCoord: null,
-				difference: null
+				initialCoord: 0,
+				difference: 0
 			})
 		}
 
