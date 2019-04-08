@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function withTouchTracking(WrappedComponent, axis, duration) {
+export default function withTouchTracking(WrappedComponent, axis) {
 	return class extends React.Component {
 		constructor(props) {
 			super(props);
@@ -30,7 +30,7 @@ export default function withTouchTracking(WrappedComponent, axis, duration) {
 			let { difference, index } = this.state;
 			const setProgress = () => {
 				this.inProgress = true;
-				setTimeout(() => { this.inProgress = false }, duration * 1000);
+				setTimeout(() => { this.inProgress = false }, this.props.duration * 1000);
 			}
 
 			if (this.inProgress) return;
@@ -63,7 +63,8 @@ export default function withTouchTracking(WrappedComponent, axis, duration) {
 					trackTouchStart={this.trackTouchStart}
 					trackTouchMove={this.trackTouchMove}
 					trackTouchEnd={this.trackTouchEnd}
-					{...this.state}
+					index={this.state.index}
+					{...this.props}
 				/>
 			)
 		}
