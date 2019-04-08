@@ -1,9 +1,10 @@
 import React, { Component } from 'react'
+import withTouchTracking from '../../HoCs/withTouchTracking'
 import Slide1 from './slide-1/Slide1'
 import Slide2 from './slide-2/Slide2'
 import Slide3 from './slide-3/Slide3'
 
-export default class Slider extends Component {
+class Slider extends Component {
 	constructor(props) {
 		super(props);
 
@@ -46,6 +47,8 @@ export default class Slider extends Component {
 	}
 
 	render() {
+		console.log(this.props);
+		
 		const { dots } = this.state;
 		const { index, duration, cubicBezier } = this.props;
 		let sliderStyle = {
@@ -70,3 +73,5 @@ export default class Slider extends Component {
 		)
 	}
 }
+
+export default withTouchTracking(Slider, "Y")
