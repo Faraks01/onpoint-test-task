@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/onpoint-test-task/static/media/ice-shard-4.fe1eacfd.png"
   },
   {
-    "revision": "fa2f9e68ed32631dfaac",
-    "url": "/onpoint-test-task/static/css/main.19f0885b.chunk.css"
+    "revision": "48b60078cc604cac7675",
+    "url": "/onpoint-test-task/static/css/main.005a4492.chunk.css"
   },
   {
     "revision": "807964d0d17510f65abc",
     "url": "/onpoint-test-task/static/js/runtime~main.60553642.js"
   },
   {
-    "revision": "24d5bf75d7e43cb27ffd",
-    "url": "/onpoint-test-task/static/js/2.21e31705.chunk.js"
+    "revision": "07a3e8f2b603e0c93bd6",
+    "url": "/onpoint-test-task/static/js/2.051bfc3a.chunk.js"
   },
   {
     "revision": "e4618a5b4ea445f71ae3d10981652b0c",
@@ -112,8 +112,8 @@ self.__precacheManifest = [
     "url": "/onpoint-test-task/static/media/ice-shard-3.e26e0e54.png"
   },
   {
-    "revision": "fa2f9e68ed32631dfaac",
-    "url": "/onpoint-test-task/static/js/main.0b3df8ad.chunk.js"
+    "revision": "48b60078cc604cac7675",
+    "url": "/onpoint-test-task/static/js/main.27fed059.chunk.js"
   },
   {
     "revision": "c89f5b2f247d26cdf54886f3e424c02d",
@@ -140,12 +140,16 @@ self.__precacheManifest = [
     "url": "/onpoint-test-task/static/media/lining.ecdbfe72.png"
   },
   {
+    "revision": "c31a8e097cb6c2901857d8c686f0063d",
+    "url": "/onpoint-test-task/static/media/GothamPro.c31a8e09.eot"
+  },
+  {
     "revision": "3cb46b372ab77d032576b9f70c83d1ff",
     "url": "/onpoint-test-task/static/media/GothamPro.3cb46b37.woff"
   },
   {
-    "revision": "c31a8e097cb6c2901857d8c686f0063d",
-    "url": "/onpoint-test-task/static/media/GothamPro.c31a8e09.eot"
+    "revision": "7fd3861de823f75a6923000a948c494a",
+    "url": "/onpoint-test-task/static/media/GothamPro-Light.7fd3861d.eot"
   },
   {
     "revision": "3100f91bbd9e9ca9ecd00255cac7d11c",
@@ -160,36 +164,36 @@ self.__precacheManifest = [
     "url": "/onpoint-test-task/static/media/GothamPro-Light.abd5115e.ttf"
   },
   {
-    "revision": "7fd3861de823f75a6923000a948c494a",
-    "url": "/onpoint-test-task/static/media/GothamPro-Light.7fd3861d.eot"
+    "revision": "79b8ba6c6b392a2c85891368896f83b1",
+    "url": "/onpoint-test-task/static/media/Lato-Light.79b8ba6c.woff"
   },
   {
     "revision": "cd6c6aac15595c65e75760bce456198a",
     "url": "/onpoint-test-task/static/media/Lato-Regular.cd6c6aac.woff"
   },
   {
-    "revision": "79b8ba6c6b392a2c85891368896f83b1",
-    "url": "/onpoint-test-task/static/media/Lato-Light.79b8ba6c.woff"
-  },
-  {
     "revision": "3b8c0c7776942ac25543ce1864bfeba4",
     "url": "/onpoint-test-task/static/media/Lato-Regular.3b8c0c77.eot"
-  },
-  {
-    "revision": "02e85e244c78339c433b99a744f54b55",
-    "url": "/onpoint-test-task/static/media/Lato-Regular.02e85e24.ttf"
   },
   {
     "revision": "fe3d8decb24d2232afefce5a1cd28c73",
     "url": "/onpoint-test-task/static/media/Lato-Light.fe3d8dec.eot"
   },
   {
-    "revision": "12ef52cc546567c7549dd2e53025b47f",
-    "url": "/onpoint-test-task/static/media/Lato-Medium.12ef52cc.woff"
+    "revision": "02e85e244c78339c433b99a744f54b55",
+    "url": "/onpoint-test-task/static/media/Lato-Regular.02e85e24.ttf"
   },
   {
     "revision": "32426ae551632ee97541769514abb18c",
     "url": "/onpoint-test-task/static/media/Lato-Light.32426ae5.ttf"
+  },
+  {
+    "revision": "12ef52cc546567c7549dd2e53025b47f",
+    "url": "/onpoint-test-task/static/media/Lato-Medium.12ef52cc.woff"
+  },
+  {
+    "revision": "f7a0c31e13069b62fbdf68a957a0fc51",
+    "url": "/onpoint-test-task/static/media/Lato-Bold.f7a0c31e.woff"
   },
   {
     "revision": "1f242eab41f35bb8c5f94078edf9965b",
@@ -200,16 +204,12 @@ self.__precacheManifest = [
     "url": "/onpoint-test-task/static/media/Lato-Medium.3ed0b9fe.ttf"
   },
   {
-    "revision": "c8ef5e00219e7a561cdbb27290fb8781",
-    "url": "/onpoint-test-task/static/media/Lato-Bold.c8ef5e00.eot"
-  },
-  {
-    "revision": "f7a0c31e13069b62fbdf68a957a0fc51",
-    "url": "/onpoint-test-task/static/media/Lato-Bold.f7a0c31e.woff"
-  },
-  {
     "revision": "bef8639602379476aaade35f341782b6",
     "url": "/onpoint-test-task/static/media/Lato-Semibold.bef86396.woff"
+  },
+  {
+    "revision": "c8ef5e00219e7a561cdbb27290fb8781",
+    "url": "/onpoint-test-task/static/media/Lato-Bold.c8ef5e00.eot"
   },
   {
     "revision": "d6e8a95af622b5f08cbe540f2f56e087",
@@ -224,7 +224,7 @@ self.__precacheManifest = [
     "url": "/onpoint-test-task/static/media/Lato-Semibold.eedc65d0.ttf"
   },
   {
-    "revision": "fb3a54120a6aec7f96537288bcdc90e3",
+    "revision": "f8ffcfa6dd638fde3856fd760cdcdba7",
     "url": "/onpoint-test-task/index.html"
   }
 ];
